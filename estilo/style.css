@@ -33,3 +33,15 @@ label {
 form {
     text-align: center;
 }
+
+.enviar {
+    background-color: rgba(0, 128, 0, 0.664);
+}
+
+.limpar {
+    background-color: rgba(255, 0, 0, 0.863);
+}
+
+div {
+    padding-bottom: 10px;
+}
